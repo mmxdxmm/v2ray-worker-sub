@@ -1,3 +1,10 @@
+运行Actions的Get Providers List
+
+订阅链接:
+
+https://raw.githubusercontent.com/mmxdxmm/v2ray-worker-sub/master/providers/providers
+
+
 # V2ray Worker Sub
 
 * This repository is mainly based on Vfarid's [V2ray-worker](https://github.com/vfarid/v2ray-worker) Project, version 2.3 with a minor change to return vmess:// proxies as well as vless:// correctly. Providers include Telegram Channels and publicly available v2ray subscriptions.
